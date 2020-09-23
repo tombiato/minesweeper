@@ -17,5 +17,14 @@ export default {
 </script>
 
 <style>
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #46bedd;
+  color: #ffe54e;
+  text-align: center;
+}
+* {
+  margin: 0 auto;
+}
 </style>
